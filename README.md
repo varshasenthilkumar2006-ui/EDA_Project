@@ -54,5 +54,3 @@ Project Outcomes
 - Data Interpretation
 - Analytical Thinking
 
-## 👨‍💻 Author
-Created as a Data Analytics portfolio project.
