@@ -57,7 +57,8 @@ Project Outcomes
   ## Output
   .<img width="1853" height="982" alt="Screenshot 2026-10-31 112202" src="https://github.com/user-attachments/assets/3aa25bea-b5eb-4861-86a6-e8d2e8ff661d" />
   <img width="1912" height="993" alt="Screenshot 2026-10-31 112223" src="https://github.com/user-attachments/assets/895ed9a1-6449-4b64-80eb-e2ae52c5c8e6" />
-<img width="1891" height="970" alt="Screenshot 2026-10-31 112244" src="https://github.com/user-attachments/assets/d422c283-0999-441e-b0f0-665862f07e93" 
+  <img width="1891" height="970" alt="Screenshot 2026-10-31 112244" src="https://github.com/user-attachments/assets/eed33f0a-2aef-4039-be6a-5141fe451719" />
+
  <img width="1882" height="1012" alt="Screenshot 2026-10-28 184518" src="https://github.com/user-attachments/assets/9f979372-edf9-49c3-bc0c-b774c9ced014" />
 
 
